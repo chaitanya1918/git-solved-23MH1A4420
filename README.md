@@ -1,15 +1,14 @@
 # DevOps Simulator
 
-<<<<<<< HEAD
+HEAD
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
-<<<<<<< HEAD
+ HEAD
 **Version**: 1.0.0  
 **Environment**: Production  
 **Maintainer**: DevOps Team
 
-=======
 **Version**: 2.0.0-beta  
 **Environment**: Development  
 **Maintainer**: DevOps Team
@@ -21,9 +20,9 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🔐 OAuth2 authentication
 - 🐳 Docker Compose integration
 
->>>>>>> instructor/dev
+ instructor/dev
 ## Features
-=======
+
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
 ## Project Status
@@ -40,20 +39,20 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🎯 Chaos engineering tools
 
 ## Legacy Features
->>>>>>> conflict-simulator
+ conflict-simulator
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
+ HEAD
 
 ## Quick Start
 1. Clone the repository
 2. Configure environment variables
 3. Run deployment script
 4. Monitor system health
-=======
+
 - **NEW**: Multi-cloud support (AWS, Azure, GCP)
 - **NEW**: Slack/Discord notifications
 
@@ -75,15 +74,15 @@ npm test
 # Start development server
 npm run dev
 ```
->>>>>>> instructor/dev
+> instructor/dev
 
 ## Documentation
 See `/docs` folder for detailed documentation.
 
-<<<<<<< HEAD
+ HEAD
 ## License
 MIT License
-=======
+
 ## Contributing
 Please read CONTRIBUTING.md before submitting pull requests.
 
