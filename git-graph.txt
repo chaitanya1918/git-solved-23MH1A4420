@@ -1,22 +1,23 @@
-* e6efb26 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
-| * cfbfe62 (origin/feature/another-feature, feature/another-feature) feat: Add test feature
+* d74a068 docs: Add final project artifacts
+* e6efb26 docs: Add changelog
+| * cfbfe62 feat: Add test feature
 |/  
-* 1b892cd (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 1b892cd docs: Update README
 * c42cd8d docs: Update README
 * b2f92d8 docs: Add FAQ section
-| * 863bfe1 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * 863bfe1 feat: Add new feature
 |/  
 * a3c9a3f merge: resolve all conflicts including scripts/deploy.sh
 *   6ed8f4f merge: resolve conflicts between main and dev
 |\  
-| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+| * d3dd9b2 updating conflict-simulator
 * | 75566c9 Resolve all merge conflicts (main + instructor/dev)
 * |   1d6ae99 Merge dev into main: resolved conflicts in README, architecture, deploy, and monitor scripts
 |\ \  
-| * | 02011a5 (instructor/dev, dev) updating dev
+| * | 02011a5 updating dev
 | |/  
 * | 4d55a8a Save local changes before merging instructor/dev
-* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | 0312c6f updating main
 * | fadfd24 Revise README for DevOps Simulator project
 |/  
 * ae630eb Initial commit
